@@ -1,0 +1,116 @@
+"novalnetCreditCard","Credit/Debit Cards",en_US
+"novalnetCreditCard","Kredit-/Debitkarte",de_DE
+"novalnetSepa","Direct Debit SEPA",en_US
+"novalnetSepa","SEPA-Lastschrift",de_DE
+"novalnetSepaGuarantee","Direct Debit SEPA with payment guarantee",en_US
+"novalnetSepaGuarantee","SEPA-Lastschrift mit Zahlungsgarantie",de_DE
+"novalnetInvoice","Invoice",en_US
+"novalnetInvoice","Rechnung",de_DE
+"novalnetInvoiceGuarantee","Invoice with payment guarantee",en_US
+"novalnetInvoiceGuarantee","Rechnung mit Zahlungsgarantie",de_DE
+"novalnetPrepayment","Prepayment",en_US
+"novalnetPrepayment","Vorkasse",de_DE
+"novalnetIdeal","iDEAL",en_US
+"novalnetIdeal","iDEAL",de_DE
+"novalnetSofort","Sofort",en_US
+"novalnetSofort","Sofortüberweisung",de_DE
+"novalnetGiropay","giropay",en_US
+"novalnetGiropay","giropay",de_DE
+"novalnetBarzahlen","Barzahlen/viacash",en_US
+"novalnetBarzahlen","Barzahlen/viacash",de_DE
+"novalnetPrzelewy","Przelewy24",en_US
+"novalnetPrzelewy","Przelewy24",de_DE
+"novalnetEps","eps",en_US
+"novalnetEps","eps",de_DE
+"novalnetPaypal","PayPal",en_US
+"novalnetPaypal","PayPal",de_DE
+"novalnetPostfinanceCard","PostFinance Card",en_US
+"novalnetPostfinanceCard","PostFinance Card",de_DE
+"novalnetPostfinance","PostFinance E-Finance",en_US
+"novalnetPostfinance","PostFinance E-Finance",de_DE
+"novalnetBancontact","Bancontact",en_US
+"novalnetBancontact","Bancontact",de_DE
+"novalnetMultibanco","Multibanco",en_US
+"novalnetMultibanco","Multibanco",de_DE
+"novalnet.sepa-iban","IBAN",en_US
+"novalnet.sepa-iban","IBAN",de_DE
+"novalnet.sepa-payment-description","The amount will be debited from your account by Novalnet",en_US
+"novalnet.sepa-payment-description","Der Betrag wird durch Novalnet von Ihrem Konto abgebucht",de_DE
+"novalnet.credit-card-payment-description","The amount will be debited from your credit/debit card",en_US
+"novalnet.credit-card-payment-description","Der Betrag wird Ihrer Kredit-/Debitkarte belastet",de_DE
+"novalnet.invoice-payments-description","You will receive an e-mail with the Novalnet account details to complete the payment",en_US
+"novalnet.invoice-payments-description","Sie erhalten eine E-Mail mit den Bankdaten von Novalnet, um die Zahlung abzuschließen",de_DE
+"novalnet.sofort-payment-description","You will be redirected to Sofort. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.sofort-payment-description","Sie werden zu Sofortüberweisung weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.giropay-payment-description","You will be redirected to giropay. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.giropay-payment-description","Sie werden zu giropay weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.przelewy-payment-description","You will be redirected to Przelewy24. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.przelewy-payment-description","Sie werden zu Przelewy24 weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.eps-payment-description","You will be redirected to eps. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.eps-payment-description","Sie werden zu eps weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.paypal-payment-description","You will be redirected to PayPal. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.paypal-payment-description","Sie werden zu PayPal weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.postfinance-payment-description","You will be redirected to PostFinance. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.postfinance-payment-description","Sie werden zu PostFinance weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.bancontact-payment-description","You will be redirected to Bancontact. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.bancontact-payment-description","Sie werden zu Bancontact weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.ideal-payment-description","You will be redirected to iDEAL. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.ideal-payment-description","Sie werden zu iDEAL weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.multibanco-payment-description","On successful checkout, you will receive a payment reference. Using this payment reference, you can either pay in the Multibanco ATM or through your online bank account",en_US
+"novalnet.multibanco-payment-description","Nach erfolgreichem Bestellabschluss erhalten Sie eine Zahlungsreferenz. Damit können Sie entweder an einem Multibanco-Geldautomaten oder im Onlinebanking bezahlen.",de_DE
+"novalnet.barzahlen-payment-description","On successful checkout, you will receive a payment slip/SMS to pay your online purchase at one of our retail partners (e.g. supermarket)",en_US
+"novalnet.barzahlen-payment-description","Nach erfolgreichem Bestellabschluss erhalten Sie einen Zahlschein bzw. eine SMS. Damit können Sie Ihre Online-Bestellung bei einem unserer Partner im Einzelhandel (z.B. Drogerie, Supermarkt etc.) bezahlen",de_DE
+"novalnet.payment-confirmed","The transaction has been confirmed on %confirmed%",en_US
+"novalnet.payment-confirmed","Die Buchung wurde am %confirmed% bestätigt.",de_DE
+"novalnet.payment-void","The transaction has been canceled on %cancelled%",en_US
+"novalnet.payment-void","Die Transaktion wurde am %cancelled%" Uhr storniert,de_DE
+"novalnet.payment-partial-refund","Refund has been initiated for the TID: %parentTid% with the amount of %amount%. New TID: %referenceTid% for the refunded amount.",en_US
+"novalnet.payment-partial-refund","Die Rückerstattung für die TID %parentTid% mit dem Betrag %amount% wurde veranlasst. Die neue TID für den erstatteten Betrag lautet: %referenceTid%",de_DE
+"novalnet.payment-full-refund","Refund has been initiated for the TID: %parentTid% with the amount of %amount%.",en_US
+"novalnet.payment-full-refund","Die Rückerstattung für die TID %parentTid% mit dem Betrag %amount% wurde veranlasst.",de_DE
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Please transfer the amount of %amount% to the following account on or before %due_date%",en_US
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Bitte überweisen Sie den Betrag von %amount% spätestens bis zum %due_date% auf das folgende Konto",de_DE
+"novalnet.invoice-bank-note-transfer-text","Please transfer the amount of %amount% %currency% to the following account",en_US
+"novalnet.invoice-bank-note-transfer-text","Bitte überweisen Sie den Betrag %amount% %currency% auf das folgende Konto.",de_DE
+"novalnet.invoice-bank-note-account-holder","Account holder: %holder%",en_US
+"novalnet.invoice-bank-note-account-holder","Kontoinhaber: %holder%",de_DE
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",en_US
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",de_DE
+"novalnet.invoice-bank-note-bic","BIC: %bic%",en_US
+"novalnet.invoice-bank-note-bic","BIC: %bic%",de_DE
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",en_US
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",de_DE
+"novalnet.invoice-bank-note-amount","Amount: %amount% %currency%",en_US
+"novalnet.invoice-bank-note-amount","Betrag: %amount% %currency%",de_DE
+"novalnet.invoice-bank-note-reference-text","Please use any one of the following references as the payment reference, as only through this way your payment is matched and assigned to the order:",en_US
+"novalnet.invoice-bank-note-reference-text","Bitte verwenden Sie einen der unten angegebenen Verwendungszwecke für die Überweisung, da nur so Ihr Geldeingang zugeordnet werden kann:",de_DE
+"novalnet.invoice-bank-note-reference-one","Payment Reference 1: TID %ref1%",en_US
+"novalnet.invoice-bank-note-reference-one","Verwendungszweck 1: TID %ref1%",de_DE
+"novalnet.invoice-bank-note-reference-two","Payment Reference 2: %ref2%",en_US
+"novalnet.invoice-bank-note-reference-two","Verwendungszweck 2: %ref2%",de_DE
+"novalnet.cashpayment-slip-expiry-date","Slip expiry date: %date%",en_US
+"novalnet.cashpayment-slip-expiry-date","Verfallsdatum des Zahlscheins: %date%",de_DE
+"novalnet.multibanco-reference-note","Please use the following payment reference details to pay the amount of %amount% %currency% at a Multibanco ATM or through your internet banking.",en_US
+"novalnet.multibanco-reference-note","Bitte verwenden Sie die folgende Zahlungsreferenz, um den Betrag von %amount% %currency% an einem Multibanco-Geldautomaten oder über Ihr Onlinebanking zu",de_DE
+"novalnet.multibanco-reference-comment","Payment reference: %ref%",en_US
+"novalnet.multibanco-reference-comment","Verwendungszweck: %ref%",de_DE
+"novalnet.cashpayment-stores-near-you","Store(s) near you:",en_US
+"novalnet.cashpayment-stores-near-you","Barzahlen-Partnerfiliale in Ihrer Nähe:",de_DE
+"novalnet.payment-test-mode-description","The payment will be processed in the test mode therefore amount for this transaction will not be charged",en_US
+"novalnet.payment-test-mode-description","Die Zahlung wird im Testmodus durchgeführt, daher wird der Betrag für diese Transaktion nicht eingezogen.",de_DE
+"novalnet.transaction-mode","Transaction Mode: Test",en_US
+"novalnet.transaction-mode","Transaktion modus: Test",de_DE
+"novalnet.transaction-id","Novalnet Transaction ID: %tid%",en_US
+"novalnet.transaction-id","Novalnet Transaktions-ID: %tid%",de_DE
+"novalnet.guarantee-sepa-pending-text","Your order is under verification and we will soon update you with the order status. Please note that this may take upto 24 hours.",en_US
+"novalnet.guarantee-sepa-pending-text","Ihre Bestellung wird derzeit überprüft. Wir werden Sie in Kürze über den Bestellstatus informieren. Bitte beachten Sie, dass dies bis zu 24 Stunden dauern kann.",de_DE
+"novalnet.guarantee-invoice-pending-text","Your order is being verified. Once confirmed, we will send you our bank details to which the order amount should be transferred. Please note that this may take up to 24 hours",en_US
+"novalnet.guarantee-invoice-pending-text","Ihre Bestellung wird überprüft. Nach der Bestätigung senden wir Ihnen unsere Bankverbindung, an die Sie bitte den Gesamtbetrag der Bestellung überweisen. Bitte beachten Sie, dass dies bis zu 24 Stunden dauern kann",de_DE
+"novalnet.guarantee-payment-dob","Your date of birth",en_US
+"novalnet.guarantee-payment-dob","Ihr Geburtsdatum",de_DE
+"novalnet.guarantee-bithdate-missing","Please enter your date of birth",en_US
+"novalnet.guarantee-bithdate-missing","Geben Sie bitte Ihr Geburtsdatum ein",de_DE
+"novalnet.guarantee-bithdate-invalid","Please enter valid birth date",en_US
+"novalnet.guarantee-bithdate-invalid","Geben Sie ein gültiges Geburtsdatum ein",de_DE
+"novalnet.guarantee-birth_date","DD.MM.YYYY",en_US
+"novalnet.guarantee-birth_date","TT.MM.JJJJ",de_DE
