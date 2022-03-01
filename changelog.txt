@@ -1,0 +1,7 @@
+*** Changelog ***
+
+= 1.0.0  - 2022.03.01 =
+*        - New release: Payment module with marketplace implementations with dynamic revenue sharing and composer installation to adapt to version 2 API structure
+
+
+
