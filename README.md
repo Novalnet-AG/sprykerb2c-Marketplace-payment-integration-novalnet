@@ -2,7 +2,7 @@
 <a href="https://www.novalnet.com/modul/spryker">Spryker Commerce OS</a> is a PHP-based e-commerce system for B2C. Novalnet payment module for Spryker simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the Spryker shop with top-quality range of services of the payment provider.
 
 ## Integration requirements 
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Spryker payment module. The module is available for the SprykerB2C versions 202108.0 in the following languages: EN & DE
+Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Spryker payment module. The module is available for the SprykerB2C Marketplace version 202108.0 in the following languages: EN & DE
 
 ## Key features 
 -	Easy configuration for all payment methods
