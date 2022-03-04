@@ -17,7 +17,8 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 -	Automated bookkeeping report in XML, SOAP, CSV, MT940
 -	Secure SSL- encoded gateways
 -	Seamless and fast integration of the payment module
--	Credit Card with 3D Secure
+-	Credit/Debit Card iframe integration
+-   Custom CSS configuration for Credit/Debit Card iframe
 -	On-hold transaction configuration in the shop admin panel
 -	Easy way of confirmation and cancellation of on-hold transactions (Cancel & Confirm option) for Credit/Debit Cards, Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Invoice, Prepayment & PayPal.
 -	Refund option for Credit/Debit Cards, Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Invoice, Invoice with payment guarantee, Prepayment, Barzahlen/viacash, Sofort, iDEAL, eps, giropay, PayPal, Przelewy24, PostFinance Card, PostFinance E-Finance & Bancontact.
