@@ -1,8 +1,8 @@
 # SprykerB2C Marketplace Payment Integration by Novalnet
-<a href="https://www.novalnet.com/modul/spryker">Spryker Commerce OS</a> is a PHP-based e-commerce system for B2C. Novalnet payment module for Spryker simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the Spryker shop with top-quality range of services of the payment provider.
+<a href="https://www.novalnet.com/modul/spryker">Spryker Commerce OS</a> is a PHP-based e-commerce system for B2C. Novalnet payment module for SprykerB2C simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the Spryker shop with top-quality range of services of the payment provider.
 
-## Integration requirements 
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Spryker payment module. The module is available for the SprykerB2C Marketplace version 202108.0 in the following languages: EN & DE
+## SprykerB2c Payment Integration requirements 
+<a href="https://www.novalnet.de/">Novalnet</a> merchant account is required for processing all international and local payments through this Spryker payment module. The module is available for the SprykerB2C Marketplace version 202108.0 in the following languages: EN & DE
 
 ## Key features 
 -	Easy configuration for all payment methods
@@ -26,7 +26,7 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 
 For detailed documentation and other technical inquiries, please send us an email at <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
-## Integrated payment methods
+## Integrated payment methods for SprykerB2C
 -	Direct Debit SEPA
 -	Credit/Debit Cards
 -	Invoice
