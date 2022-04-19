@@ -56,7 +56,10 @@ For detailed documentation and other technical inquiries, please send us an emai
 
  ##### 2. Novalnet - General Configuration  
 Configure the required settings under 
+
+ ```
 > vendor/novalnet/sprykerb2c-marketplace/config/config.dist.php
+ ```
 
 To get the complete installation guide, contact <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
