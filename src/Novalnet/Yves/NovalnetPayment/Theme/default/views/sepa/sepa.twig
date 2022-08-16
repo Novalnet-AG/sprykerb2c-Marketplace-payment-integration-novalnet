@@ -1,0 +1,17 @@
+{% extends model('template') %}
+
+{% define data = {
+    form: form
+} %}
+
+{% block body %}
+    <div class="payment-method">        
+        <p>{{ 'novalnet.sepa-payment-description' | trans }}</p>
+        
+        <label>{{ 'novalnet.sepa-iban' | trans }}</label>        
+        <div class="field">
+			{{ form_widget(form.novalnetSepa.iban, {'attr': { 'style': 'text-transform: uppercase;', 'autocomplete': 'off' }}) }}
+			{{ form_errors(form.novalnetSepa.iban) }}
+		</div>        
+    </div>
+{% endblock %}
